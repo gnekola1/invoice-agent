@@ -1,0 +1,28 @@
+[
+  {
+    "amount": 20,
+    "currency": "USD",
+    "invoiceDate": null,
+    "invoiceNumber": "Invoice",
+    "vendor": "Anthropic, PBC",
+    "emailReceivedAt": "2026-07-11T14:34:52.000Z",
+    "originalFilename": "Invoice-AJPIQRKG-0005.pdf",
+    "sourceId": "19f519a4765a155e",
+    "source": "gmail",
+    "savedPath": "C:\\invoice-agent\\data\\invoices\\2026\\07\\originals\\Invoice-AJPIQRKG-0005.pdf",
+    "recordedAt": "2026-08-28T13:28:19.305Z"
+  },
+  {
+    "amount": 20,
+    "currency": "USD",
+    "invoiceDate": null,
+    "invoiceNumber": "numberAJPIQRKG",
+    "vendor": "Anthropic, PBC",
+    "emailReceivedAt": "2026-07-11T14:34:52.000Z",
+    "originalFilename": "Receipt-2747-9389-3404.pdf",
+    "sourceId": "19f519a4765a155e",
+    "source": "gmail",
+    "savedPath": "C:\\invoice-agent\\data\\invoices\\2026\\07\\originals\\Receipt-2747-9389-3404.pdf",
+    "recordedAt": "2026-08-28T13:28:19.673Z"
+  }
+]

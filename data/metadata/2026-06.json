@@ -1,0 +1,54 @@
+[
+  {
+    "amount": 20,
+    "currency": "USD",
+    "invoiceDate": null,
+    "invoiceNumber": "Invoice",
+    "vendor": "Anthropic, PBC",
+    "emailReceivedAt": "2026-06-11T14:36:58.000Z",
+    "originalFilename": "Invoice-AJPIQRKG-0004.pdf",
+    "sourceId": "19eb71d6a98a4472",
+    "source": "gmail",
+    "savedPath": "C:\\invoice-agent\\data\\invoices\\2026\\06\\originals\\Invoice-AJPIQRKG-0004.pdf",
+    "recordedAt": "2026-08-28T13:28:20.749Z"
+  },
+  {
+    "amount": 20,
+    "currency": "USD",
+    "invoiceDate": null,
+    "invoiceNumber": "numberAJPIQRKG",
+    "vendor": "Anthropic, PBC",
+    "emailReceivedAt": "2026-06-11T14:36:58.000Z",
+    "originalFilename": "Receipt-2855-1037-3295.pdf",
+    "sourceId": "19eb71d6a98a4472",
+    "source": "gmail",
+    "savedPath": "C:\\invoice-agent\\data\\invoices\\2026\\06\\originals\\Receipt-2855-1037-3295.pdf",
+    "recordedAt": "2026-08-28T13:28:21.148Z"
+  },
+  {
+    "amount": 10.9,
+    "currency": "ILS",
+    "invoiceDate": "2026-06-05",
+    "invoiceNumber": null,
+    "vendor": "גורג ניקולא",
+    "emailReceivedAt": "2026-06-05T19:18:07.000Z",
+    "originalFilename": "837193_Original.pdf",
+    "sourceId": "19e9938af18f315a",
+    "source": "gmail",
+    "savedPath": "C:\\invoice-agent\\data\\invoices\\2026\\06\\originals\\837193_Original.pdf",
+    "recordedAt": "2026-08-28T13:28:22.045Z"
+  },
+  {
+    "amount": null,
+    "currency": null,
+    "invoiceDate": "2026-06-22",
+    "invoiceNumber": "1/142340589",
+    "vendor": "walla-inbox",
+    "emailReceivedAt": "2026-08-28T14:04:50.525Z",
+    "originalFilename": "כרטסת _ 20524.pdf",
+    "sourceId": "walla:5:כרטסת _ 20524.pdf",
+    "source": "walla",
+    "savedPath": "C:\\invoice-agent\\data\\invoices\\2026\\06\\originals\\כרטסת _ 20524.pdf",
+    "recordedAt": "2026-08-28T14:04:58.072Z"
+  }
+]

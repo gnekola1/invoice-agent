@@ -1,0 +1,41 @@
+[
+  {
+    "amount": 20,
+    "currency": "USD",
+    "invoiceDate": null,
+    "invoiceNumber": "Invoice",
+    "vendor": "Anthropic, PBC",
+    "emailReceivedAt": "2026-08-12T17:58:06.000Z",
+    "originalFilename": "Invoice-AJPIQRKG-0006.pdf",
+    "sourceId": "19ff71fd69baca0e",
+    "source": "gmail",
+    "savedPath": "C:\\invoice-agent\\data\\invoices\\2026\\08\\originals\\Invoice-AJPIQRKG-0006.pdf",
+    "recordedAt": "2026-08-28T13:28:18.099Z"
+  },
+  {
+    "amount": 20,
+    "currency": "USD",
+    "invoiceDate": null,
+    "invoiceNumber": "numberAJPIQRKG",
+    "vendor": "Anthropic, PBC",
+    "emailReceivedAt": "2026-08-12T17:58:06.000Z",
+    "originalFilename": "Receipt-2315-3165-6262.pdf",
+    "sourceId": "19ff71fd69baca0e",
+    "source": "gmail",
+    "savedPath": "C:\\invoice-agent\\data\\invoices\\2026\\08\\originals\\Receipt-2315-3165-6262.pdf",
+    "recordedAt": "2026-08-28T13:28:18.436Z"
+  },
+  {
+    "amount": null,
+    "currency": "ILS",
+    "invoiceDate": "2026-08-28",
+    "invoiceNumber": null,
+    "vendor": "walla-inbox",
+    "emailReceivedAt": "2026-08-28T14:04:33.894Z",
+    "originalFilename": "Invoice 143643 1 13.pdf",
+    "sourceId": "walla:0:Invoice 143643 1 13.pdf",
+    "source": "walla",
+    "savedPath": "C:\\invoice-agent\\data\\invoices\\2026\\08\\originals\\Invoice 143643 1 13.pdf",
+    "recordedAt": "2026-08-28T14:04:58.052Z"
+  }
+]

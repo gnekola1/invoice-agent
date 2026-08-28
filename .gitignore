@@ -1,0 +1,7 @@
+node_modules/
+credentials/
+data/invoices/
+data/processed.json
+data/processed.db*
+logs/*.log
+.env
